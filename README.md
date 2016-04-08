@@ -3,7 +3,7 @@ Update js version and app version for ios and android
 
 ## Installation
 ```sh
-npm install @remobile/react-native-update --save
+npm install @zss0512/react-native-update --save
 ```
 
 ### Installation (iOS)
